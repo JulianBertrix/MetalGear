@@ -1,0 +1,181 @@
+Initialize engine version: 5.1.3f1 (b0a23b31c3d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660   (ID=0x11c0)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 83)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\1510024\Session 3\Prog2DAvancé\MetalGear\Build\MetalGear_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\1510024\Session 3\Prog2DAvancé\MetalGear\Build\MetalGear_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\1510024\Session 3\Prog2DAvancé\MetalGear\Build\MetalGear_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\1510024\Session 3\Prog2DAvancé\MetalGear\Build\MetalGear_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\1510024\Session 3\Prog2DAvancé\MetalGear\Build\MetalGear_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\1510024\Session 3\Prog2DAvancé\MetalGear\Build\MetalGear_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\1510024\Session 3\Prog2DAvancé\MetalGear\Build\MetalGear_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\1510024\Session 3\Prog2DAvancé\MetalGear\Build\MetalGear_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\1510024\Session 3\Prog2DAvancé\MetalGear\Build\MetalGear_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\1510024\Session 3\Prog2DAvancé\MetalGear\Build\MetalGear_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\1510024\Session 3\Prog2DAvancé\MetalGear\Build\MetalGear_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.051 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\1510024\Session 3\Prog2DAvancé\MetalGear\Build\MetalGear_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.512594 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 3460.
+Total: 0.775972 ms (FindLiveObjects: 0.171956 ms CreateObjectMapping: 0.043740 ms MarkObjects: 0.548923 ms  DeleteObjects: 0.011018 ms)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 394)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 394)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 394)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 394)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 394)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 394)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 394)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 394)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Can not play a disabled audio source
+ 
+(Filename:  Line: 394)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 394)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 394)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 394)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 394)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 394)
+
+UnloadTime: 7.121986 ms
+
+Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.485817 ms (FindLiveObjects: 0.019032 ms CreateObjectMapping: 0.021703 ms MarkObjects: 0.309187 ms  DeleteObjects: 0.134893 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.309520 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.319871 ms (FindLiveObjects: 0.014357 ms CreateObjectMapping: 0.016360 ms MarkObjects: 0.245746 ms  DeleteObjects: 0.042738 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.296499 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.337568 ms (FindLiveObjects: 0.014691 ms CreateObjectMapping: 0.016360 ms MarkObjects: 0.263443 ms  DeleteObjects: 0.042738 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.260104 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.302509 ms (FindLiveObjects: 0.015025 ms CreateObjectMapping: 0.016360 ms MarkObjects: 0.254428 ms  DeleteObjects: 0.016026 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.267450 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.225045 ms (FindLiveObjects: 0.013355 ms CreateObjectMapping: 0.016360 ms MarkObjects: 0.152590 ms  DeleteObjects: 0.042404 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.324880 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.332559 ms (FindLiveObjects: 0.014023 ms CreateObjectMapping: 0.016694 ms MarkObjects: 0.296499 ms  DeleteObjects: 0.004674 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.270789 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.335898 ms (FindLiveObjects: 0.014691 ms CreateObjectMapping: 0.016360 ms MarkObjects: 0.264111 ms  DeleteObjects: 0.040401 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.287817 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.289153 ms (FindLiveObjects: 0.013355 ms CreateObjectMapping: 0.016360 ms MarkObjects: 0.256097 ms  DeleteObjects: 0.003005 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.272792 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.281807 ms (FindLiveObjects: 0.014357 ms CreateObjectMapping: 0.016360 ms MarkObjects: 0.208016 ms  DeleteObjects: 0.042404 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.280805 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.288151 ms (FindLiveObjects: 0.014691 ms CreateObjectMapping: 0.016360 ms MarkObjects: 0.251757 ms  DeleteObjects: 0.004674 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.282475 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.338235 ms (FindLiveObjects: 0.013021 ms CreateObjectMapping: 0.016026 ms MarkObjects: 0.264445 ms  DeleteObjects: 0.043740 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.278468 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.329220 ms (FindLiveObjects: 0.014023 ms CreateObjectMapping: 0.016360 ms MarkObjects: 0.293827 ms  DeleteObjects: 0.004674 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.341908 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.354596 ms (FindLiveObjects: 0.014357 ms CreateObjectMapping: 0.016026 ms MarkObjects: 0.263109 ms  DeleteObjects: 0.060101 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.273460 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.363945 ms (FindLiveObjects: 0.014691 ms CreateObjectMapping: 0.016360 ms MarkObjects: 0.327551 ms  DeleteObjects: 0.004674 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.240738 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.289821 ms (FindLiveObjects: 0.013021 ms CreateObjectMapping: 0.016360 ms MarkObjects: 0.255429 ms  DeleteObjects: 0.004674 ms)
+
